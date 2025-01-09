@@ -1,5 +1,5 @@
 # Python-Projects
 
 ## Basic Projects
-### number guessing game
-### Word guessing game
+### 1.number guessing game
+### 2.Word guessing game
