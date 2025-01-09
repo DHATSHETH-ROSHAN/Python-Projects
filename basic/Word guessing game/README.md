@@ -24,3 +24,24 @@ To run this game on your local machine, make sure you have Python installed.
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/word-guessing-game.git
+
+## Code Explanation:
+The game picks a random word from a list.
+The player guesses letters one by one.
+If the guess is correct, the letter is revealed in the word.
+The number of remaining guesses is based on the length of the word.
+The game ends when the player guesses the word or runs out of attempts.
+The user is asked if they want to play again after each round.
+
+## Dependencies:
+No external libraries are required for this project. It uses only built-in Python libraries:
+
+random
+math
+
+
+## Contributing:
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Please ensure that your contributions adhere to the project's coding standards.
+
+## License:
+This project is licensed under the MIT License - see the LICENSE file for details.
