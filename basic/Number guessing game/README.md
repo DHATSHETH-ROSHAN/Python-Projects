@@ -23,7 +23,7 @@ To run this game on your local machine, make sure you have Python installed.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone git clone https://github.com/DHATSHETH-ROSHAN/Python-Projects/basic/number-guessing-game.git
 
 
 ## Requirements
