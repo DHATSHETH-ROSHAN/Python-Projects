@@ -1,61 +1,54 @@
 # Hangman Game
 
-A simple text-based Hangman game implemented in Python. Guess the word one letter at a time, and try to complete it before you run out of chances!
+Welcome to the **Hangman Game**! This is a text-based word-guessing game where the objective is to guess the hidden word one letter at a time before you run out of chances. The words are chosen randomly and are names of fruits or vegetables.
 
-## Objective:
-The goal is to guess the hidden word correctly by guessing one letter at a time.
+## Features:
+- Randomly selects a word from a predefined list of fruits and vegetables.
+- Provides hints to help identify the word.
+- Tracks and displays the guessed letters.
+- Allows users to play multiple rounds until they decide to quit.
+- Displays the full word and a win/lose message at the end of each game.
 
-## Rules:
+## How to Play:
+1. **Start the Game**: When the game begins, a word is selected randomly, and its letters are hidden as underscores (`_`).
+2. **Guess Letters**: Enter one letter at a time to guess the word.
+   - Correct guesses reveal the corresponding letters in the word.
+   - Incorrect guesses reduce your remaining chances.
+3. **Hints**: The game provides a hint that the word is the name of a fruit or vegetable.
+4. **Win/Lose**: You win if you guess all the letters correctly before running out of chances. If you fail, the full word will be revealed.
+5. **Play Again**: After each round, choose whether to play again or exit the game.
 
-You will be given a random word, and its letters will be hidden as underscores (_).
-Guess one letter at a time. If the letter is correct, it will be revealed in the word.
-If the letter is incorrect, your chances will decrease by one.
-You win if you reveal the entire word before running out of chances.
-You lose if you run out of chances without guessing the word.
-Hints: The word is always the name of a fruit or vegetable.
-Play Again: After completing a game, you will be prompted to play again. Enter yes to replay or no to exit.
+## Installation:
+To run this game on your local machine, ensure you have Python installed.
 
-## Features
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/hangman-game.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd hangman-game
+   ```
+3. Run the game:
+   ```bash
+   python hangman.py
+   ```
 
-Randomly selects a word from a predefined list of fruits and vegetables.
-Provides hints and feedback for each guess.
-Tracks and displays the guessed letters.
-Allows the user to play multiple rounds until they choose to exit.
+## Requirements:
+- Python 3.x
 
-## Requirements
+## Code Explanation:
+- **play_hangman_game**: This function contains the main game logic, including input validation, tracking guessed letters, and checking win/lose conditions.
+- **Replay Option**: After each game, the user can choose to play another round or exit.
 
-Python 3.6 or later
+## Dependencies:
+No external libraries are required for this project. It uses only built-in Python libraries:
+- **random**: For selecting a random word.
+- **collections.Counter**: To track and count guessed letters.
 
-## Code Overview
+## Contributing:
+Feel free to fork this repository and submit a pull request with your changes. If you want to add new features or improvements, don't hesitate to contribute.
 
-Modules Used:
-random: For selecting a random word.
-collections.Counter: To track the guessed letters and their counts.
-
-Main Components
-play_hangman_game Function:
-Encapsulates the game logic.
-
-Handles user input validation, updates game state, and checks win/lose conditions.
-
-Replay Option:
-After each game, users can decide whether to play again or exit.
-
-## How to Run
-
-Clone the repository or copy the code into a Python file (e.g., hangman.py).
-Run the script in your terminal or Python IDE:
-python hangman.py
-
-## Contributing
-
-Feel free to contribute to this project by submitting issues or pull requests. Your feedback is valuable!
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code as per the license terms.
-
-## Author
-
-Created with ❤️ by Dhatsheth Roshan.
+## License:
+This project is licensed under the MIT License - see the LICENSE file for details.
 
