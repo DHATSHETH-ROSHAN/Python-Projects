@@ -23,7 +23,7 @@ To run this game on your local machine, make sure you have Python installed.
 
 1. Clone the repository to your local machine:
    ```bash
-  git clone https://github.com/dhatsheth-roshan/python-projects/basic/word-guessing-game.git
+   git clone https://github.com/dhatsheth-roshan/python-projects/basic/word-guessing-game.git
 
 ## Code Explanation:
 The game picks a random word from a list.
