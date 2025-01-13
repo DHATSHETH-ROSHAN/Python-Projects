@@ -15,6 +15,7 @@
 ```bash
   git clone https://github.com/dhatsheth-roshan/python-projects/basic/hangaman_game/hangaman-game.git
 ```
+### 4.Rock paper scissors game
 ```
   git clone https://github.com/dhatsheth-roshan/python-projects/basic/rock_paper_scissor_game/rock_paper_scissors.git
 ```
