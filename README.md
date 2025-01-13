@@ -17,5 +17,5 @@
 ```
 ### 4.Rock paper scissors game
 ```
-  git clone https://github.com/dhatsheth-roshan/python-projects/basic/rock_paper_scissor_game/rock_paper_scissors.git
+  git clone https://github.com/DHATSHETH-ROSHAN/Python-Projects/tree/b5c8cee443f652e11884ad32333c71d7d3c78eca/basic/rock_paper_scissor_game
 ```
