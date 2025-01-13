@@ -4,6 +4,7 @@
 ### 1.number guessing game
 ```bash
   git clone https://github.com/dhatsheth-roshan/python-projects/basic/number-guessing-game.git
+
 ```
 ### 2.Word guessing game
 
@@ -13,7 +14,7 @@
 ### 3.Hangaman game
 
 ```bash
-  git clone https://github.com/dhatsheth-roshan/python-projects/basic/hangaman_game/hangaman-game.git
+  git clone https://github.com/DHATSHETH-ROSHAN/Python-Projects/tree/a347b7d9995f45d1f6dd229e1037cab9ca1d48d9/basic/Hangaman%20game
 ```
 ### 4.Rock paper scissors game
 ```
