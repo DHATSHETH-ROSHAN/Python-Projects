@@ -8,7 +8,7 @@
 ### 2.Word guessing game
 
 ```bash
-  git clone https://github.com/dhatsheth-roshan/python-projects/basic/word-guessing-game.git
+  git clone https://github.com/DHATSHETH-ROSHAN/Python-Projects/tree/164578eb58891309ba113e77afe79b6f9746b55e/basic/Word%20guessing%20game
 ```
 ### 3.Hangaman game
 
