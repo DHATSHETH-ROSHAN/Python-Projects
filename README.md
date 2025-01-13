@@ -3,8 +3,7 @@
 ## Basic Projects
 ### 1.number guessing game
 ```bash
-  git clone https://github.com/dhatsheth-roshan/python-projects/basic/number-guessing-game.git
-
+  git clone https://github.com/DHATSHETH-ROSHAN/Python-Projects/tree/956915fccda1df6c62906e18f59dca0af60f80eb/basic/Number%20guessing%20game
 ```
 ### 2.Word guessing game
 
