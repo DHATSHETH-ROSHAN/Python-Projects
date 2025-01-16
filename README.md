@@ -1,6 +1,7 @@
 # Python-Projects
 
-## Basic Projects
+## Basic Projects 
+ visit the basic folder to see all the projects
 ### 1.number guessing game
 ```bash
   git clone https://github.com/DHATSHETH-ROSHAN/Python-Projects/tree/956915fccda1df6c62906e18f59dca0af60f80eb/basic/Number%20guessing%20game
