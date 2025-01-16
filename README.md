@@ -2,7 +2,7 @@
 
 ## Basic Projects 
 
-### 1.number guessing game
+## 1.number guessing game
 #### repository link to clone
 ```bash
   gh repo clone DHATSHETH-ROSHAN/Number-guessing-game-using-python
@@ -12,7 +12,7 @@
 https://github.com/DHATSHETH-ROSHAN/Number-guessing-game-using-python.git
 ```
 
-### 2.Word guessing game
+## 2.Word guessing game
 #### repository link to clone
 ```bash
 gh repo clone DHATSHETH-ROSHAN/Word-guessing-game-using-python
@@ -22,7 +22,7 @@ gh repo clone DHATSHETH-ROSHAN/Word-guessing-game-using-python
 https://github.com/DHATSHETH-ROSHAN/Word-guessing-game-using-python.git
 ```
 
-### 3.Hangaman game
+## 3.Hangaman game
 #### repository link to clone
 ```bash
   gh repo clone DHATSHETH-ROSHAN/Hangaman-game-using-python
@@ -32,7 +32,7 @@ https://github.com/DHATSHETH-ROSHAN/Word-guessing-game-using-python.git
  https://github.com/DHATSHETH-ROSHAN/Hangaman-game-using-python.git
 ```
 
-### 4.Rock paper scissors game
+## 4.Rock paper scissors game
 #### repository link to clone
 ```bash
   gh repo clone DHATSHETH-ROSHAN/Rock-paper-Scissors-game-using-python
@@ -42,7 +42,7 @@ https://github.com/DHATSHETH-ROSHAN/Word-guessing-game-using-python.git
  https://github.com/DHATSHETH-ROSHAN/Rock-paper-Scissors-game-using-python.git
 ```
 
-### 5.keyloger
+## 5.keyloger
 #### repository link to clone
 ```bash
   gh repo clone DHATSHETH-ROSHAN/keylogger-using-python
@@ -50,4 +50,14 @@ https://github.com/DHATSHETH-ROSHAN/Word-guessing-game-using-python.git
 #### Visit
 ```bash
  https://github.com/DHATSHETH-ROSHAN/keylogger-using-python.git
+```
+
+## 6.Weather Display app
+#### repository link to clone
+```bash
+  gh repo clone DHATSHETH-ROSHAN/python-_-weather_display
+```
+#### Visit
+```bash
+ https://github.com/DHATSHETH-ROSHAN/python-_-weather_display.git
 ```
